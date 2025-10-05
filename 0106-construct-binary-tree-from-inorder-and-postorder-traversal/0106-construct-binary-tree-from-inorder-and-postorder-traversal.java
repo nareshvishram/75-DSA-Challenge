@@ -25,7 +25,7 @@ class Solution {
     }
 
     private TreeNode helper(int[] inorder, int[] postorder, int start, int end) {
-        if (end < start || postIndex<0)
+        if (end < start || postIndex < 0)
             return null;
         int currRootVal = postorder[postIndex--];
         TreeNode root = new TreeNode(currRootVal);
