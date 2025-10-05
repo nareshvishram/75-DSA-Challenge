@@ -11,6 +11,7 @@
 | [0101-symmetric-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0101-symmetric-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -38,4 +40,16 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
