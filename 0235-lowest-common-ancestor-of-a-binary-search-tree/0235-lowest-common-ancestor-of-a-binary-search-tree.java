@@ -21,10 +21,8 @@ class Solution {
             left = lowestCommonAncestor(root.left, p, q);
         else if (p.val > root.val && q.val > root.val)
             right = lowestCommonAncestor(root.right, p, q);
-        else {
-            left = lowestCommonAncestor(root.left, p, q);
-            right = lowestCommonAncestor(root.right, p, q);
-        }
+        else if ((root.val >= p.val && root.val <= q.val) || (root.val >= q.val && root.val <= p.val))
+            return root;
 
         if (left != null && right != null)
             return root;
