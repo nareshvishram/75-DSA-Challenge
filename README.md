@@ -15,6 +15,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0783-search-in-a-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -37,12 +39,14 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0783-search-in-a-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0101-symmetric-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +70,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
 |  |
 | ------- |
