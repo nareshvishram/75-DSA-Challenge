@@ -22,6 +22,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -115,4 +119,12 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
