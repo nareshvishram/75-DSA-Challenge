@@ -77,12 +77,14 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [0073-set-matrix-zeroes](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0073-set-matrix-zeroes](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
