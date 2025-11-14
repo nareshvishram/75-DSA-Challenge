@@ -86,6 +86,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
+| [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 ## Design
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0056-merge-intervals](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
