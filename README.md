@@ -87,6 +87,7 @@
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
