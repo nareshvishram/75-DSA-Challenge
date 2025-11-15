@@ -88,6 +88,7 @@
 | [0056-merge-intervals](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0074-search-a-2d-matrix](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0074-search-a-2d-matrix](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
