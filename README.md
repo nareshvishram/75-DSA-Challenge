@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,4 +188,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
