@@ -91,6 +91,7 @@
 | [0074-search-a-2d-matrix](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
+| [0001-two-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0001-two-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
+| [0001-two-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0001-two-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
