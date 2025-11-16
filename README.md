@@ -120,6 +120,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Design
 |  |
 | ------- |
