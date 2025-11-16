@@ -122,12 +122,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [0050-powx-n](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
 ## Union Find
 |  |
 | ------- |
