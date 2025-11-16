@@ -93,6 +93,7 @@
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
 | [0001-two-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
+| [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
 | [0001-two-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0050-powx-n) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
