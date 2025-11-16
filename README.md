@@ -92,6 +92,7 @@
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
 | [0001-two-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
 ## Design
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0088-merge-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
+| [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
