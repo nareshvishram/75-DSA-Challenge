@@ -17,7 +17,6 @@ class Solution {
         }
         ListNode rev=reverse(slow);
         ListNode ptr1=head,ptr2=rev;
-        System.out.println(ptr1.val+" "+rev.val+" "+slow.val);
         while(ptr1!=null && ptr2!=null){
             if(ptr1.val!=ptr2.val)
                 return false;
