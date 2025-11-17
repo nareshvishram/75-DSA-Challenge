@@ -1,38 +1,40 @@
 class MedianFinder {
     PriorityQueue<Integer> left;
     PriorityQueue<Integer> right;
-
     public MedianFinder() {
-        left = new PriorityQueue<>((a, b) -> b - a);
-        right = new PriorityQueue<>();
+        this.left=new PriorityQueue<>((a,b)->b-a);
+        this.right=new PriorityQueue<>();
     }
-
+    
     public void addNum(int num) {
-        if (left.isEmpty())
+        if(left.isEmpty())
             left.add(num);
         else {
-            if (left.peek() <= num)
+            if(left.peek()<=num)
                 right.add(num);
             else
                 left.add(num);
         }
-        if (right.size() - left.size() > 1)
-            left.add(right.poll());
-        else if (left.size() - right.size() > 1)
+        if(left.size()>right.size()+1)
             right.add(left.poll());
+        else if(right.size()>left.size()+1)
+            left.add(right.poll());
+        //System.out.println(left+" "+right);  
     }
-
+    
     public double findMedian() {
-        int n1 = left.size(), n2 = right.size();
-        if ((n1 + n2) % 2 == 0)
-            return (double) (left.peek() + right.peek()) / 2.0;
-        if (n1 == 0)
-            return right.peek();
-        if (n2 == 0)
-            return left.peek();
-        if (n1 > n2)
-            return (double) Math.min(left.peek(), right.peek());
-        return (double) Math.max(left.peek(), right.peek());
+        int a=left.size();
+        int b=right.size();
+        if((a+b)%2==0)
+            return (double)(left.peek()+right.peek())/2.0;
+        if(a==0)
+            return (double)right.peek();
+        if(b==0)
+            return (double)left.peek();
+        if(a>b)
+            return (double)Math.min(left.peek(),right.peek());
+        return (double)Math.max(left.peek(),right.peek());
+        
     }
 }
 
