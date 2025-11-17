@@ -149,6 +149,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
+| [0225-implement-stack-using-queues](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0225-implement-stack-using-queues) |
 ## Iterator
 |  |
 | ------- |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
