@@ -101,6 +101,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0053-maximum-subarray](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -197,11 +200,13 @@
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
 | [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -226,6 +231,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -241,4 +247,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
