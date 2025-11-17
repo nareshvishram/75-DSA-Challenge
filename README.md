@@ -150,6 +150,7 @@
 | [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0225-implement-stack-using-queues) |
+| [0020-valid-parentheses](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0020-valid-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -265,4 +266,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
