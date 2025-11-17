@@ -94,6 +94,7 @@
 | [0001-two-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0061-rotate-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Design
 |  |
 | ------- |
