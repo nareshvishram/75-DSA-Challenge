@@ -126,6 +126,7 @@
 | [0169-majority-element](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0023-merge-k-sorted-lists](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0023-merge-k-sorted-lists](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 ## Stack
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0023-merge-k-sorted-lists](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 ## Data Stream
 |  |
 | ------- |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
