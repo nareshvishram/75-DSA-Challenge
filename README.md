@@ -73,6 +73,7 @@
 | [0118-pascals-triangle](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0118-pascals-triangle) |
 | [0053-maximum-subarray](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +168,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0061-rotate-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
 | ------- |
