@@ -97,6 +97,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
+| [0485-max-consecutive-ones](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
