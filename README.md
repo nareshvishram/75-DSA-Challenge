@@ -110,6 +110,7 @@
 | [0001-two-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0138-copy-list-with-random-pointer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0234-palindrome-linked-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0138-copy-list-with-random-pointer) |
 ## Stack
 |  |
 | ------- |
