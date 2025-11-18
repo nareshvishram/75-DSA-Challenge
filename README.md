@@ -66,6 +66,7 @@
 | [0101-symmetric-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0496-next-greater-element-i) |
+| [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
