@@ -120,6 +120,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0496-next-greater-element-i) |
+| [0013-roman-to-integer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0013-roman-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0050-powx-n) |
+| [0013-roman-to-integer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0013-roman-to-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -282,4 +284,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0020-valid-parentheses) |
+| [0013-roman-to-integer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
