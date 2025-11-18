@@ -12,21 +12,19 @@ class MyQueue {
     }
 
     public int pop() {
-        shuffle(st1, st2);
-        int val = st2.pop();
-        shuffle(st2, st1);
-        return val;
+        if(st2.isEmpty())
+            shuffle(st1, st2);
+        return st2.pop();
     }
 
     public int peek() {
-        shuffle(st1, st2);
-        int val = st2.peek();
-        shuffle(st2, st1);
-        return val;
+        if(st2.isEmpty())
+            shuffle(st1, st2);
+        return st2.peek();
     }
 
     public boolean empty() {
-        return st1.isEmpty();
+        return st1.isEmpty() && st2.isEmpty();
     }
 
     private void shuffle(Stack<Integer> st1, Stack<Integer> st2) {
