@@ -157,6 +157,7 @@
 | [0020-valid-parentheses](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0496-next-greater-element-i) |
+| [0155-min-stack](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0155-min-stack) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [0295-find-median-from-data-stream](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0225-implement-stack-using-queues](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0155-min-stack](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0155-min-stack) |
 ## Iterator
 |  |
 | ------- |
