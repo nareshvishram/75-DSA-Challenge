@@ -1,23 +1,37 @@
 class MyQueue {
-    Queue<Integer> q;
+    Stack<Integer> st1;
+    Stack<Integer> st2;
+
     public MyQueue() {
-        this.q=new LinkedList<>();
+        this.st1 = new Stack<>();
+        this.st2 = new Stack<>();
     }
-    
+
     public void push(int x) {
-        q.add(x);
+        st1.push(x);
     }
-    
+
     public int pop() {
-        return q.poll();
+        shuffle(st1, st2);
+        int val = st2.pop();
+        shuffle(st2, st1);
+        return val;
     }
-    
+
     public int peek() {
-        return q.peek();
+        shuffle(st1, st2);
+        int val = st2.peek();
+        shuffle(st2, st1);
+        return val;
     }
-    
+
     public boolean empty() {
-        return q.isEmpty();
+        return st1.isEmpty();
+    }
+
+    private void shuffle(Stack<Integer> st1, Stack<Integer> st2) {
+        while (!st1.isEmpty())
+            st2.push(st1.pop());
     }
 }
 
