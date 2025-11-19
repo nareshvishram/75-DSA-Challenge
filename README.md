@@ -194,6 +194,7 @@
 | [0061-rotate-list](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0061-rotate-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -285,4 +286,9 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0020-valid-parentheses) |
 | [0013-roman-to-integer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
