@@ -121,6 +121,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0496-next-greater-element-i) |
 | [0013-roman-to-integer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [0018-4sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0242-valid-anagram](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [0020-valid-parentheses](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0020-valid-parentheses) |
 | [0013-roman-to-integer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
