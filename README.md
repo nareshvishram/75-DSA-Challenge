@@ -196,6 +196,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0165-compare-version-numbers) |
 ## Design
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0686-repeated-string-match) |
+| [0165-compare-version-numbers](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0165-compare-version-numbers) |
 ## String Matching
 |  |
 | ------- |
