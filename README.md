@@ -75,6 +75,7 @@
 | [0053-maximum-subarray](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
+| [1250-longest-common-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1250-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -296,6 +297,7 @@
 | [0242-valid-anagram](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0686-repeated-string-match) |
 | [0165-compare-version-numbers](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0165-compare-version-numbers) |
+| [1250-longest-common-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
