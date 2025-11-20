@@ -22,8 +22,6 @@ class Solution {
                 right[i] = nums[i];
             }
         }
-        System.out.println(Arrays.toString(left));
-        System.out.println(Arrays.toString(right));
 
         int ans[] = new int[n - k + 1];
         int j = 0;
