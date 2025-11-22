@@ -78,6 +78,7 @@
 | [1250-longest-common-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1250-longest-common-subsequence) |
 | [0132-palindrome-partitioning-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0072-edit-distance](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0072-edit-distance) |
 ## Array
 |  |
 | ------- |
@@ -303,6 +304,7 @@
 | [0165-compare-version-numbers](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0165-compare-version-numbers) |
 | [1250-longest-common-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1250-longest-common-subsequence) |
 | [0132-palindrome-partitioning-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0132-palindrome-partitioning-ii) |
+| [0072-edit-distance](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0072-edit-distance) |
 ## String Matching
 |  |
 | ------- |
