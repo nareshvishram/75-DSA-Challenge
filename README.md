@@ -77,6 +77,7 @@
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 | [1250-longest-common-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1250-longest-common-subsequence) |
 | [0132-palindrome-partitioning-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0132-palindrome-partitioning-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0300-longest-increasing-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0496-next-greater-element-i](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0496-next-greater-element-i) |
 | [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 | [0239-sliding-window-maximum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0074-search-a-2d-matrix](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0300-longest-increasing-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
