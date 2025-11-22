@@ -76,6 +76,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 | [1250-longest-common-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1250-longest-common-subsequence) |
+| [0132-palindrome-partitioning-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0132-palindrome-partitioning-ii) |
 ## Array
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [0686-repeated-string-match](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0686-repeated-string-match) |
 | [0165-compare-version-numbers](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0165-compare-version-numbers) |
 | [1250-longest-common-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1250-longest-common-subsequence) |
+| [0132-palindrome-partitioning-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0132-palindrome-partitioning-ii) |
 ## String Matching
 |  |
 | ------- |
