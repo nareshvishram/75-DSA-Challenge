@@ -79,6 +79,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0072-edit-distance](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0072-edit-distance) |
+| [0062-unique-paths](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0062-unique-paths) |
 ## Array
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0050-powx-n) |
 | [0013-roman-to-integer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0062-unique-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
