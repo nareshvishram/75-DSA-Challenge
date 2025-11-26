@@ -24,11 +24,9 @@ class Solution {
     private int helper(TreeNode root) {
         if (root == null)
             return 0;
-
         int left = Math.max(0, helper(root.left));
         int right = Math.max(0, helper(root.right));
-        sum = Math.max(sum, left + (root.val) + right);
+        sum = Math.max(sum, left + right + root.val);
         return Math.max(left, right) + root.val;
-
     }
 }
