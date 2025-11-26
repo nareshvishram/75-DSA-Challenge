@@ -23,6 +23,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0098-validate-binary-search-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0173-binary-search-tree-iterator](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0173-binary-search-tree-iterator) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0496-next-greater-element-i) |
 | [0155-min-stack](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0155-min-stack) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
