@@ -128,6 +128,7 @@
 | [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 | [0239-sliding-window-maximum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0039-combination-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -343,4 +344,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
