@@ -22,9 +22,10 @@ class Solution {
     private boolean helper(TreeNode root, int k) {
         if (root == null)
             return false;
-        if (map.containsKey(root.val))
+        int req=k-root.val;
+        if (map.containsKey(req))
             return true;
-        map.put(k - root.val, 1);
+        map.put(root.val, 1);
         return helper(root.left, k) || helper(root.right, k);
 
     }
