@@ -96,6 +96,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0072-edit-distance](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0072-edit-distance) |
 | [0062-unique-paths](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0062-unique-paths) |
+| [0131-palindrome-partitioning](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
 | ------- |
@@ -331,6 +332,7 @@
 | [1250-longest-common-subsequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1250-longest-common-subsequence) |
 | [0132-palindrome-partitioning-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0072-edit-distance](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0131-palindrome-partitioning) |
 ## String Matching
 |  |
 | ------- |
@@ -354,4 +356,5 @@
 | [0039-combination-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
