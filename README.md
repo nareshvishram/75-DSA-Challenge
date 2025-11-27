@@ -132,6 +132,7 @@
 | [0039-combination-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0090-subsets-ii) |
+| [0046-permutations](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -357,4 +358,5 @@
 | [0078-subsets](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0131-palindrome-partitioning) |
+| [0046-permutations](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
