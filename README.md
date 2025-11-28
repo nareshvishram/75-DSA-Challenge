@@ -133,6 +133,7 @@
 | [0078-subsets](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0090-subsets-ii) |
 | [0046-permutations](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0046-permutations) |
+| [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0496-next-greater-element-i](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0496-next-greater-element-i) |
 | [0013-roman-to-integer](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0242-valid-anagram) |
+| [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0048-rotate-image](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
+| [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -359,4 +362,5 @@
 | [0090-subsets-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0131-palindrome-partitioning) |
 | [0046-permutations](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0046-permutations) |
+| [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
