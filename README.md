@@ -134,6 +134,7 @@
 | [0090-subsets-ii](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0090-subsets-ii) |
 | [0046-permutations](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0046-permutations) |
 | [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
+| [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0042-trapping-rain-water](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0042-trapping-rain-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0165-compare-version-numbers) |
+| [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
 ## Design
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0242-valid-anagram](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -363,4 +366,8 @@
 | [0131-palindrome-partitioning](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0131-palindrome-partitioning) |
 | [0046-permutations](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0046-permutations) |
 | [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
