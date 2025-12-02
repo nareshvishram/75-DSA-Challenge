@@ -47,6 +47,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -370,4 +372,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
