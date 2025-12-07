@@ -48,6 +48,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
+| [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
+| [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0046-permutations](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0046-permutations) |
 | [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
 | [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
+| [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | [0074-search-a-2d-matrix](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 | [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +314,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
 ## Quickselect
 |  |
 | ------- |
