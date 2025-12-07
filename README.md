@@ -49,6 +49,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
 | [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
 | [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0785-is-graph-bipartite) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0785-is-graph-bipartite) |
 ## Quickselect
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
