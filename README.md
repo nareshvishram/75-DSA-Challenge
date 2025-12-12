@@ -142,6 +142,7 @@
 | [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
 | [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
 | [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
+| [0075-sort-colors](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
+| [0075-sort-colors](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0075-sort-colors) |
 ## Design
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0242-valid-anagram](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
+| [0075-sort-colors](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0075-sort-colors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
