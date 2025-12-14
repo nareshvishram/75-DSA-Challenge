@@ -104,6 +104,7 @@
 | [0062-unique-paths](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0131-palindrome-partitioning) |
 | [0064-minimum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
 | [0075-sort-colors](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0075-sort-colors) |
 | [0064-minimum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
