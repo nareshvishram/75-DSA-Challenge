@@ -103,6 +103,7 @@
 | [0072-edit-distance](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0072-edit-distance) |
 | [0062-unique-paths](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0131-palindrome-partitioning) |
+| [0064-minimum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0064-minimum-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
 | [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
 | [0075-sort-colors](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0075-sort-colors) |
+| [0064-minimum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [1036-rotting-oranges](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/1036-rotting-oranges) |
 | [0037-sudoku-solver](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0200-number-of-islands) |
+| [0064-minimum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0064-minimum-path-sum) |
 ## Math
 |  |
 | ------- |
