@@ -151,6 +151,7 @@
 | [0075-sort-colors](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0075-sort-colors) |
 | [0064-minimum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0031-next-permutation](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@
 | [0165-compare-version-numbers](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0455-assign-cookies) |
 | [0075-sort-colors](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0075-sort-colors) |
+| [0031-next-permutation](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0031-next-permutation) |
 ## Design
 |  |
 | ------- |
