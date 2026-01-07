@@ -152,6 +152,7 @@
 | [0064-minimum-path-sum](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0031-next-permutation](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0031-next-permutation) |
+| [0238-product-of-array-except-self](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -406,4 +407,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nareshvishram/75-DSA-Challenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
